@@ -8,7 +8,7 @@ Project Pitchslap helps writers, creators, and producers quickly develop story i
 
 -----
 
-## \#\# Features
+## Features
 
   * **Multiple Outline Modes:** Generate outlines using different creative frameworks:
       * **Standard:** A simple mode for Title, Logline, and Synopsis.
@@ -21,7 +21,7 @@ Project Pitchslap helps writers, creators, and producers quickly develop story i
 
 -----
 
-## \#\# Tech Stack
+## Tech Stack
 
   * **Framework:** Next.js
   * **Language:** TypeScript
@@ -32,7 +32,7 @@ Project Pitchslap helps writers, creators, and producers quickly develop story i
 
 -----
 
-## \#\# Getting Started
+## Getting Started
 
 Follow these instructions to get a local copy of the project up and running.
 
