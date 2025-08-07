@@ -6,6 +6,8 @@ An AI-powered story and screenplay outline generator built with Next.js and Goog
 
 Project Pitchslap helps writers, creators, and producers quickly develop story ideas. It provides structured outlines based on proven screenwriting methodologies, allowing for rapid ideation, iterative refinement, and feedback from different AI-powered industry personas.
 
+  * [TRY THE ONLINE DEMO](https://projectpitchslap.com/)
+
 -----
 
 ## Features
